@@ -24,7 +24,7 @@ textarea {
 
 .navigation {
     background-color: var(--primary-color);
-    min-height: 13vh;
+    min-height: 15vh;
     /* padding: 100rem; */
     color: black;
     border-bottom-left-radius: 1rem;
